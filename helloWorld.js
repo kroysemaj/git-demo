@@ -1,1 +1,1 @@
-blabla;ldkbj
+console.log('Hello World!');
