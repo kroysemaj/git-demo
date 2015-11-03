@@ -1,5 +1,6 @@
 s;
 dlkfjads;fljk:
-ajas;dlkfj
-a;sdkfja;sdlkfjadls;
-asd;lfk
+
+for (var i = 0; i < 10; i++) {
+  console.log(i);
+}
